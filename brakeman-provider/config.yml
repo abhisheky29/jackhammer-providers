@@ -10,3 +10,4 @@ websocketClientConfiguration:
   threadPoolSize: 5 # 5 threads
   initialDelay: 30 # 0 seconds delay on startup
   period: 30 #seconds
+hacked
